@@ -1,0 +1,45 @@
+Asiprintgnación de proveedores/demandas: 
+ 
+La demanda desde el proveedor 11244958 hasta el nodo de demanda 600200 va vía NORTE 
+La demanda desde el proveedor 121244958 hasta el nodo de demanda 600200 va vía DIRECTO 
+La demanda desde el proveedor 111244958 hasta el nodo de demanda 600200 va vía NORTE 
+La demanda desde el proveedor 101244958 hasta el nodo de demanda 600200 va vía DIRECTO 
+La demanda desde el proveedor 181244958 hasta el nodo de demanda 600200 va vía CENTRO 
+La demanda desde el proveedor 11244958 hasta el nodo de demanda 322002 va vía DIRECTO 
+La demanda desde el proveedor 121244958 hasta el nodo de demanda 322002 va vía DIRECTO 
+La demanda desde el proveedor 111244958 hasta el nodo de demanda 322002 va vía DIRECTO 
+La demanda desde el proveedor 101244958 hasta el nodo de demanda 322002 va vía SUR 
+La demanda desde el proveedor 181244958 hasta el nodo de demanda 322002 va vía NORTE 
+La demanda desde el proveedor 11244958 hasta el nodo de demanda 192131 va vía DIRECTO 
+La demanda desde el proveedor 121244958 hasta el nodo de demanda 192131 va vía SUR 
+La demanda desde el proveedor 111244958 hasta el nodo de demanda 192131 va vía DIRECTO 
+La demanda desde el proveedor 101244958 hasta el nodo de demanda 192131 va vía SUR 
+La demanda desde el proveedor 181244958 hasta el nodo de demanda 192131 va vía NORTE 
+
+ 
+Asignación de camiones: 
+ 
+Para el trayecto 11244958-SUR se requeriran 23 camiones 
+Para el trayecto 111244958-SUR se requeriran 30 camiones 
+Para el trayecto 181244958-CENTRO se requeriran 21 camiones 
+Para el trayecto 101244958-CENTRO se requeriran 17 camiones 
+Para el trayecto 121244958-NORTE se requeriran 8 camiones 
+Para el trayecto 181244958-NORTE se requeriran 19 camiones 
+
+Para el trayecto SUR-600200 se requeriran 52 camiones 
+Para el trayecto CENTRO-600200 se requeriran 19 camiones 
+Para el trayecto CENTRO-322002 se requeriran 4 camiones 
+Para el trayecto NORTE-192131 se requeriran 26 camiones 
+Para el trayecto CENTRO-192131 se requeriran 15 camiones 
+
+Para el trayecto 121244958-600200 se requeriran 26 camiones 
+Para el trayecto 101244958-600200 se requeriran 15 camiones 
+Para el trayecto 11244958-322002 se requeriran 4 camiones 
+Para el trayecto 121244958-322002 se requeriran 8 camiones 
+Para el trayecto 111244958-322002 se requeriran 12 camiones 
+Para el trayecto 11244958-192131 se requeriran 5 camiones 
+Para el trayecto 111244958-192131 se requeriran 2 camiones 
+
+ 
+Costo del Plan: 73120.0 
+ 
